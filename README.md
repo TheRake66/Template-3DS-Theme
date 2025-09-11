@@ -1,6 +1,6 @@
-# CS:GO Classic (3DS Theme)
+# Template (3DS Theme)
 
- Custom theme for Anemone3DS inspired by old CS:GO from 2017.
+ Basic template for 3DS theme with Anemone3DS.
 
 ### Main preview
 
